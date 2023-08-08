@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="img">
+    <file>images/CD.png</file>
+    <file>images/Create.png</file>
+    <file>images/Delete.png</file>
+    <file>images/Next.png</file>
+    <file>images/Pause.png</file>
+    <file>images/Play.png</file>
+    <file>images/Previous.png</file>
+    <file>images/Remove.png</file>
+    <file>images/Stop.png</file>
+  </qresource>
+</RCC>

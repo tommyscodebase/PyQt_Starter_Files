@@ -1,2 +1,3 @@
-# PyQt_Starter_Files
- This repository contains starter files for PyQt tutorial for Tommy's Codebase YouTube channel.
+# PyQt Starter Files
+
+This repository contains the starter files for PyQt Tutorial series on [Tommy's Codebase YouTube Channel](https://www.youtube.com/@tommys_codebase)
